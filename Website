@@ -1,0 +1,364 @@
+<!DOCTYPE html>
+<!-- saved from url=(0033)https://policeroleplay.community/ -->
+<html lang="en" class="gr__policeroleplay_community"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <!-- Required meta tags -->
+        
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <link rel="icon" href="https://policeroleplay.community/img/favicon.png" type="image/png">
+        <title>Police Roleplay Community</title>
+        <!-- Bootstrap CSS -->
+        <link rel="stylesheet" href="./Police Roleplay Community_files/bootstrap.css">
+        <link rel="stylesheet" href="./Police Roleplay Community_files/style.css">
+        <link rel="stylesheet" href="./Police Roleplay Community_files/font-awesome.min.css">
+        <link rel="stylesheet" href="./Police Roleplay Community_files/owl.carousel.min.css">
+        <link rel="stylesheet" href="./Police Roleplay Community_files/simpleLightbox.css">
+        <link rel="stylesheet" href="./Police Roleplay Community_files/nice-select.css">
+        <link rel="stylesheet" href="./Police Roleplay Community_files/animate.css">
+        <link rel="stylesheet" href="./Police Roleplay Community_files/magnific-popup.css">
+        <link rel="stylesheet" href="./Police Roleplay Community_files/flaticon.css">
+        <!-- main css -->
+        <link rel="stylesheet" href="./Police Roleplay Community_files/style(1).css">
+        <link rel="stylesheet" href="./Police Roleplay Community_files/responsive.css">
+    <script async="" src="./Police Roleplay Community_files/adblocker-chromeglobalinjectjs.js.download"></script></head>
+    <body data-gr-c-s-loaded="true">
+        
+        <!--================Header Menu Area =================-->
+        <header class="header_area navbar_fixed">
+            <div class="main_menu">
+            	<nav class="navbar navbar-expand-lg navbar-light">
+					<div class="container box_1620">
+						<!-- Brand and toggle get grouped for better mobile display -->
+						<a class="navbar-brand logo_h" href="https://policeroleplay.community/index.html"><img src="./Police Roleplay Community_files/logo.png" alt=""></a>
+						<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+						<!-- Collect the nav links, forms, and other content for toggling -->
+						<div class="collapse navbar-collapse offset" id="navbarSupportedContent">
+							<ul class="nav navbar-nav menu_nav ml-auto">
+								<li class="nav-item"><a class="nav-link active" href="https://policeroleplay.community/#home" data-click="scroll-to-target">Home</a></li> 
+								<li class="nav-item"><a class="nav-link active" href="https://policeroleplay.community/#about" data-click="scroll-to-target">About Us</a></li> 
+								<li class="nav-item"><a class="nav-link active" href="https://policeroleplay.community/#games" data-click="scroll-to-target">Games</a>
+								<!--<li class="nav-item"><a class="nav-link" href="contact.html">Contact</a></li>-->
+							</li></ul>
+						</div> 
+					</div>
+            	</nav>
+            </div>
+        </header>
+        <!--================Header Menu Area =================-->
+        
+        <!--================Home Banner Area =================-->
+        <section class="home_banner_area" id="home">
+            <div class="banner_inner">
+				<div class="container">
+					<div class="banner_content text-center">
+						<h2>Police Roleplay Community</h2>
+						<p>Roblox's most immersive emergency services roleplay community &amp; game.</p>
+						<a class="banner_btn" href="https://www.roblox.com/games/2534724415/Emergency-Response-Liberty-County-ALPHA">Play Now</a>
+					</div>
+				</div>
+            </div>
+        </section>
+        <!--================End Home Banner Area =================-->
+        
+        <!--================Concept Area =================-->
+        <section class="concept_area" id="about">
+        	<div class="box_1620">
+        		<div class="row m0">
+        			<div class="left_img">
+						<img src="./Police Roleplay Community_files/concept-1.png" alt="">
+					</div>
+					<div class="right_text">
+						<div class="concept_text row m0">
+							<div class="concept_text_inner">
+								<h4>About our group</h4>
+								<p>Police Roleplay Community is a group on Roblox platform which strives to build and encourage emergency services roleplay within the platform. We enable that play through our self made games, Emergency Response: Liberty County and the City of Northpoint.</p>
+								<h1>The Team</h1>
+								<li>mrfergie - Owner</li>
+								<li>Shawnyg - Senior Developer</li>
+								<li>LostInfinity - Community Manager</li>
+								<li>SchwererModel - Vehicle Tech</li>
+							</div>
+						</div>
+					</div>
+        		</div>
+        	</div>
+        </section>
+        <!--================End Concept Area =================-->
+        
+        <!--================Feature Area =================-->
+        <section class="feature_area" id="games">
+			<div class="left_feature">
+				<div class="f_item">
+					<h4><i class="flaticon-city"></i> Emergency Response: Liberty City</h4>
+					<p>Our newest and greatest game, built from the ground up, sets the standard for emergency services on Roblox.</p>
+				</div>
+				<div class="f_item">
+					<h4><i class="flaticon-city"></i> City of Northpoint</h4>
+					<p>Our first game, which allows all types of players to experience the roleplay community for free.</p>
+				</div>
+				<!--<div class="f_item">
+					<h4><i class="flaticon-city"></i> Architecture</h4>
+					<p>If you are looking at blank cassettes on the web, you may be very confused at the difference in price.</p>
+				</div>-->
+			</div>
+			<div class="right_feature">
+				<img src="./Police Roleplay Community_files/feature-1.jpg" width="70%" alt="">
+			</div>
+        </section>
+        <!--================End Feature Area =================-->
+        
+        <!--================Fun Fact Area =================-->
+        <section class="fun_fact_area p_120">
+        	<div class="container">
+        		<div class="main_title">
+        			<!--<p>CAREER OVERVIEW</p>-->
+                    <br>
+                    <br>
+        			<h2>Some Quick Stats</h2>
+        		</div>
+        		<div class="row fun_fact_inner">
+        			<div class="col-lg-3 col-sm-6">
+        				<div class="fun_fact_item">
+        					<h4 class="counter">8,500,000</h4>
+        					<p>Plays</p>
+        				</div>
+        			</div>
+        			<div class="col-lg-3 col-sm-6">
+        				<div class="fun_fact_item">
+        					<h4 class="counter">40,000</h4>
+        					<p>Likes</p>
+        				</div>
+        			</div>
+        			<div class="col-lg-3 col-sm-6">
+        				<div class="fun_fact_item">
+        					<h4 class="counter">190,000</h4>
+        					<p>Favorites</p>
+        				</div>
+        			</div>
+        			<div class="col-lg-3 col-sm-6">
+        				<div class="fun_fact_item">
+        					<h4 class="counter">1,500</h4>
+        					<p>Concurrent Players</p>
+        				</div>
+        			</div>
+        		</div>
+                <div class="main_title">
+                    <br>
+        			<p>and growing every day!</p>
+        			<!--<h2>Some Quick Stats</h2>-->
+        		</div>
+        	</div>
+        </section>
+        <!--================End Fun Fact Area =================-->
+        
+        <!--================Testimonials Area =================-->
+        <section class="testimonials_area">
+        	<div class="container box_1620">
+        		<div class="testi_slider owl-carousel owl-loaded owl-drag">
+        			
+        			
+        		<div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-1840px, 0px, 0px); transition: all 0s ease 0s; width: 5520px;"><div class="owl-item cloned" style="width: 890px; margin-right: 30px;"><div class="item">
+						<div class="testi_item">
+							<img src="./Police Roleplay Community_files/tes.png" alt="">
+							<p>good game.</p>
+							<h4>Builderman</h4>
+							<ul class="list">
+								<li><a href="https://policeroleplay.community/#"><i class="fa fa-star"></i></a></li>
+								<li><a href="https://policeroleplay.community/#"><i class="fa fa-star"></i></a></li>
+								<li><a href="https://policeroleplay.community/#"><i class="fa fa-star"></i></a></li>
+								<li><a href="https://policeroleplay.community/#"><i class="fa fa-star"></i></a></li>
+								<li><a href="https://policeroleplay.community/#"><i class="fa fa-star-half-o"></i></a></li>
+							</ul>
+						</div>
+        			</div></div><div class="owl-item cloned" style="width: 890px; margin-right: 30px;"><div class="item">
+						<div class="testi_item">
+							<img src="./Police Roleplay Community_files/tes.png" alt="">
+							<p>yea good game.</p>
+							<h4>ROBLOX</h4>
+							<ul class="list">
+								<li><a href="https://policeroleplay.community/#"><i class="fa fa-star"></i></a></li>
+								<li><a href="https://policeroleplay.community/#"><i class="fa fa-star"></i></a></li>
+								<li><a href="https://policeroleplay.community/#"><i class="fa fa-star"></i></a></li>
+								<li><a href="https://policeroleplay.community/#"><i class="fa fa-star"></i></a></li>
+								<li><a href="https://policeroleplay.community/#"><i class="fa fa-star-half-o"></i></a></li>
+							</ul>
+						</div>
+        			</div></div><div class="owl-item active" style="width: 890px; margin-right: 30px;"><div class="item">
+						<div class="testi_item">
+							<img src="./Police Roleplay Community_files/tes.png" alt="">
+							<p>good game.</p>
+							<h4>Builderman</h4>
+							<ul class="list">
+								<li><a href="https://policeroleplay.community/#"><i class="fa fa-star"></i></a></li>
+								<li><a href="https://policeroleplay.community/#"><i class="fa fa-star"></i></a></li>
+								<li><a href="https://policeroleplay.community/#"><i class="fa fa-star"></i></a></li>
+								<li><a href="https://policeroleplay.community/#"><i class="fa fa-star"></i></a></li>
+								<li><a href="https://policeroleplay.community/#"><i class="fa fa-star-half-o"></i></a></li>
+							</ul>
+						</div>
+        			</div></div><div class="owl-item" style="width: 890px; margin-right: 30px;"><div class="item">
+						<div class="testi_item">
+							<img src="./Police Roleplay Community_files/tes.png" alt="">
+							<p>yea good game.</p>
+							<h4>ROBLOX</h4>
+							<ul class="list">
+								<li><a href="https://policeroleplay.community/#"><i class="fa fa-star"></i></a></li>
+								<li><a href="https://policeroleplay.community/#"><i class="fa fa-star"></i></a></li>
+								<li><a href="https://policeroleplay.community/#"><i class="fa fa-star"></i></a></li>
+								<li><a href="https://policeroleplay.community/#"><i class="fa fa-star"></i></a></li>
+								<li><a href="https://policeroleplay.community/#"><i class="fa fa-star-half-o"></i></a></li>
+							</ul>
+						</div>
+        			</div></div><div class="owl-item cloned" style="width: 890px; margin-right: 30px;"><div class="item">
+						<div class="testi_item">
+							<img src="./Police Roleplay Community_files/tes.png" alt="">
+							<p>good game.</p>
+							<h4>Builderman</h4>
+							<ul class="list">
+								<li><a href="https://policeroleplay.community/#"><i class="fa fa-star"></i></a></li>
+								<li><a href="https://policeroleplay.community/#"><i class="fa fa-star"></i></a></li>
+								<li><a href="https://policeroleplay.community/#"><i class="fa fa-star"></i></a></li>
+								<li><a href="https://policeroleplay.community/#"><i class="fa fa-star"></i></a></li>
+								<li><a href="https://policeroleplay.community/#"><i class="fa fa-star-half-o"></i></a></li>
+							</ul>
+						</div>
+        			</div></div><div class="owl-item cloned" style="width: 890px; margin-right: 30px;"><div class="item">
+						<div class="testi_item">
+							<img src="./Police Roleplay Community_files/tes.png" alt="">
+							<p>yea good game.</p>
+							<h4>ROBLOX</h4>
+							<ul class="list">
+								<li><a href="https://policeroleplay.community/#"><i class="fa fa-star"></i></a></li>
+								<li><a href="https://policeroleplay.community/#"><i class="fa fa-star"></i></a></li>
+								<li><a href="https://policeroleplay.community/#"><i class="fa fa-star"></i></a></li>
+								<li><a href="https://policeroleplay.community/#"><i class="fa fa-star"></i></a></li>
+								<li><a href="https://policeroleplay.community/#"><i class="fa fa-star-half-o"></i></a></li>
+							</ul>
+						</div>
+        			</div></div></div></div><div class="owl-nav disabled"><div class="owl-prev">prev</div><div class="owl-next">next</div></div><div class="owl-dots"><div class="owl-dot active"><span></span></div><div class="owl-dot"><span></span></div></div></div>
+        	</div>
+        </section>
+        <!--================End Testimonials Area =================-->
+        
+        <!--================Projects Area =================-->
+        <section class="project_area p_120">
+        	<div class="container box_1620">
+        		<div class="main_title">
+        			<p>Our</p>
+        			<h2>Player's Screenshots</h2>
+        		</div>
+        		<div class="row project_inner imageGallery1">
+        			<div class="col-lg-3 col-sm-6">
+        				<div class="project_item">
+        					<img src="./Police Roleplay Community_files/player1.jpg" alt="">
+        					<a class="light" href="./Police Roleplay Community_files/player1.jpg"><i class="fa fa-expand"></i></a>
+        				</div>
+        			</div>
+        			<div class="col-lg-3 col-sm-6">
+        				<div class="project_item">
+        					<img src="./Police Roleplay Community_files/player2.jpg" alt="">
+        					<a class="light" href="./Police Roleplay Community_files/player2.jpg"><i class="fa fa-expand"></i></a>
+        				</div>
+        			</div>
+        			<div class="col-lg-3 col-sm-6">
+        				<div class="project_item">
+        					<img src="./Police Roleplay Community_files/player3.jpg" alt="">
+        					<a class="light" href="./Police Roleplay Community_files/player3.jpg"><i class="fa fa-expand"></i></a>
+        				</div>
+        			</div>
+        			<div class="col-lg-3 col-sm-6">
+        				<div class="project_item">
+        					<img src="./Police Roleplay Community_files/player4.jpg" alt="">
+        					<a class="light" href="./Police Roleplay Community_files/player4.jpg"><i class="fa fa-expand"></i></a>
+        				</div>
+        			</div>
+        		</div>
+        	</div>
+        </section>
+        <!--================End Projects Area =================-->
+        
+      <!--  ================Clients Logo Area =================
+        <section class="clients_logo_area pad_btm">
+        	<div class="container">
+        		<div class="clients_slider owl-carousel">
+        			<div class="item">
+        				<img src="img/clients-logo/c-logo-1.png" alt="">
+        			</div>
+        			<div class="item">
+        				<img src="img/clients-logo/c-logo-2.png" alt="">
+        			</div>
+        			<div class="item">
+        				<img src="img/clients-logo/c-logo-3.png" alt="">
+        			</div>
+        			<div class="item">
+        				<img src="img/clients-logo/c-logo-4.png" alt="">
+        			</div>
+        			<div class="item">
+        				<img src="img/clients-logo/c-logo-5.png" alt="">
+        			</div>
+        		</div>
+        	</div>
+        </section>-->
+        <!--================End Clients Logo Area =================-->
+        
+        <!--================ start footer Area  =================-->	
+        <footer class="footer-area p_120">
+            <!--<div class="container">
+				<div class="single-footer-widget footer_middle">
+					<h6 class="footer_title">Newsletter</h6>
+					<p>Stay updated with our latest trends</p>		
+					<div id="mc_embed_signup">
+						<form target="_blank" action="https://spondonit.us12.list-manage.com/subscribe/post?u=1462626880ade1ac87bd9c93a&amp;id=92a4423d01" method="get" class="subscribe_form relative">
+							<div class="input-group d-flex flex-row">
+								<input name="EMAIL" placeholder="Email Address" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Email Address '" required="" type="email">
+								<button class="btn sub-btn"><span class="lnr lnr-location"></span></button>		
+							</div>									
+							<div class="mt-10 info"></div>
+						</form>
+					</div>
+				</div>-->
+                <div class="footer-bottom footer_copy">
+                    <p class="footer-text"><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+Copyright ©<script>document.write(new Date().getFullYear());</script>2019 All rights reserved
+	<br>
+	<br>
+ <a href="https://colorlib.com/" target="_blank">Colorlib</a>
+<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
+                    <div class="footer-social">
+                       <!-- <a href="#"><i class="fa fa-facebook"></i></a>-->
+                        <a href="https://twitter.com/PRC_Roblox"><i class="fa fa-twitter"></i></a>
+                        <a href="https://www.roblox.com/groups/4328109/Police-Roleplay-Community"><i class="fa fa-gamepad"></i></a>
+                        <!--<a href="#"><i class="fa fa-behance"></i></a>-->
+                    </div>
+                </div>
+            
+        </footer>
+		<!--================ End footer Area  =================-->
+        
+        
+        
+        
+        
+        <!-- Optional JavaScript -->
+        <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+        <script src="./Police Roleplay Community_files/jquery-3.2.1.min.js.download"></script>
+        <script src="./Police Roleplay Community_files/popper.js.download"></script>
+        <script src="./Police Roleplay Community_files/bootstrap.min.js.download"></script>
+        <script src="./Police Roleplay Community_files/stellar.js.download"></script>
+        <script src="./Police Roleplay Community_files/simpleLightbox.min.js.download"></script>
+        <script src="./Police Roleplay Community_files/jquery.nice-select.min.js.download"></script>
+        <script src="./Police Roleplay Community_files/imagesloaded.pkgd.min.js.download"></script>
+        <script src="./Police Roleplay Community_files/isotope-min.js.download"></script>
+        <script src="./Police Roleplay Community_files/owl.carousel.min.js.download"></script>
+        <script src="./Police Roleplay Community_files/jquery.ajaxchimp.min.js.download"></script>
+        <script src="./Police Roleplay Community_files/jquery.waypoints.min.js.download"></script>
+        <script src="./Police Roleplay Community_files/jquery.counterup.min.js.download"></script>
+        <script src="./Police Roleplay Community_files/mail-script.js.download"></script>
+        <script src="./Police Roleplay Community_files/jquery.magnific-popup.min.js.download"></script>
+        <script src="./Police Roleplay Community_files/jquery.nicescroll.min.js.download"></script>
+        <script src="./Police Roleplay Community_files/theme.js.download"></script>
+    
+</body></html>
